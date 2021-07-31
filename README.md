@@ -1,5 +1,8 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Shashank Aggarwal and I'm a Web developer/Machine Learning Enthusiast. I am from Delhi and currently pursuing my BTech.
 
 <p align=””> <img src=”https://komarev.com/ghpvc/?username=Sshashank18" alt=”Sshashank18” /> </p>
 <br/>
@@ -19,19 +22,17 @@
 <br />
 
 
-**Sshashank18/Sshashank18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently a Student.
+- 🌱 I’m currently learning Machine Learning.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=Sshashank18&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sshashank18)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Sshashank18/Sshashank18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sshashank18" />
+</a>
+<a href="https://github.com/Sshashank18/Sshashank18">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Sshashank18" />
+</a>                                                                                                      
+                                                                                                      
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sshashank18>&theme=<THEME_NAME>" />
