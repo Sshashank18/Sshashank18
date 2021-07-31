@@ -1,4 +1,5 @@
-[![Header](![image](https://user-images.githubusercontent.com/46228280/127737260-3b4c1fa0-6e7e-4c38-a69a-7f5fb22e2ea5.png)](https://some-url.dev/)
+![image](https://user-images.githubusercontent.com/46228280/127737340-cd786276-df70-4afb-9c5d-ec4a9598ad51.png)
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -23,7 +24,6 @@ My name is Shashank Aggarwal and I'm a Web developer/Machine Learning Enthusiast
 </a>
 <br>
 <br>
-<br>
 
 - 🔭 I’m a Student.
 - 🌱 I’m currently learning Machine Learning.
@@ -35,6 +35,8 @@ My name is Shashank Aggarwal and I'm a Web developer/Machine Learning Enthusiast
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>    
                                                                                                                      
 <a href="https://github.com/Sshashank18/Sshashank18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sshashank18&layout=compact&theme=material-palenight" />
