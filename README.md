@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Sshashank18/Sshashank18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align=””> <img src=”https://komarev.com/ghpvc/?username=Sshashank18" alt=”Sshashank18” /> </p>
 <br/>
@@ -19,6 +17,10 @@
 <img align=”left” alt=”Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+
+
+<!--
+**Sshashank18/Sshashank18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
